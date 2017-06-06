@@ -1,6 +1,6 @@
 #coding:UTF-8
 print("小刀测试程序")
-while  (1):
+while  (0):
 	knift = input("please input knift length:")
 	if knift <= 10 :
 		print("go to ")
@@ -8,4 +8,21 @@ while  (1):
 		print("do not go ")
 
 
-pre
+namelist = ["lvdingze","abd", "aaa" ,"lvdingze"]
+
+for temp in namelist :
+
+	while  temp == "lvdingze":
+			print(temp)
+			break;
+
+namelist.append("haha")
+
+namelist.remove("aaa")
+print(namelist)
+
+str = "adcde,nnn"
+str = str.split(",")
+print(str)
+
+
