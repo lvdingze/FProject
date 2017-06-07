@@ -1,5 +1,0 @@
-print("*********************")
-print("name : lvdingze")
-print("phone :13542049630")
-print("addr : baoanqu")
-print("*********************")
