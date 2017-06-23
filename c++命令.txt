@@ -1,0 +1,1 @@
+cl –d1reportSingleClassLayout[classname] xxx.cpp
